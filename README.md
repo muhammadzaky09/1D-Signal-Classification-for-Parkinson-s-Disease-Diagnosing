@@ -1,4 +1,4 @@
-#Parkinson's Disease Diagnosis using 1D Signal Classification
+# Parkinson's Disease Diagnosis using 1D Signal Classification
 # Methodology
 Speech recordings are 1D Audio Signal and chosen as the source of data in this paper. In order to build the classifying model, a dataset that contains both speech recording of the patients and also the control group is used. The patients (188 total) come from both genders (107 men and 81 women) ranging from age 33 to 87. On the other hand, the control group consists of 64 healthy individuals (23 men and 41 women) with ages varying from 41 to 82.
 
